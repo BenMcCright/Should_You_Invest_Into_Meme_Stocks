@@ -31,3 +31,14 @@ A look into the hype of "Meme" stocks and whether you should invest
 Meme stocks may be more volatile, but they have much more potential for growth in the short term.  You have to spend a lot of time monitoring them in order to know when to buy/sell.
 ![](Images/sharpe.gif)
 # Conclusion
+## The people who invest based on social media trends might hit it big occasionally, but they are dependent on personalities that may or may not have good intentions.  You don't have to spend a lot of money on professional advice or have a degree in economics to make smart investment choices.  Think about your financial goals and your appetite for risk, do your research and you will be more likely to have an enjoyable investment experience.  So when your friends ask you about your investments, you might not be able to give them a detailed technical analysis, but hopefully you'll be able to tell them the most important thing: LINE GO UP!
+
+![](Images/stonks.webp)
+
+# References
+* [Plotly Express](https://plotly.com/python/plotly-express/)
+* [Plotly Graph Objects in Python](https://plotly.com/python/graph-objects/)
+* [Panel for Python](https://panel.holoviz.org/)
+* [Google Trends API for Python](https://pypi.org/project/pytrends/)
+* [Alpaca Trading API](https://alpaca.markets/docs/)
+* [SPY Fund](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-trust-spy)
