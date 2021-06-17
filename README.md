@@ -16,6 +16,7 @@ A look into the hype of "Meme" stocks and whether you should invest
 * Use Google Trends API to get search interest over time for stock tickers
 * Use Pandas for Python to clean analyze the data
 * Use Panel for Python to display the findings
+![](Images/panel.gif)
 
 ## Results
 ![](Images/bb.png)
